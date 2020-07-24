@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   width="663"
+   height="489"
+   version="1.0"
+   sodipodi:docname="HZ_Hand_Line4.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path3283"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective9" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="846"
+     inkscape:window-width="1434"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="0.85369532"
+     inkscape:cx="335.94049"
+     inkscape:cy="283.55303"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:current-layer="svg2" />
+  <image
+     xlink:href="HZ_Hand_Line4.png"
+     sodipodi:absref="HZ_Hand_Line4.png"
+     width="663"
+     height="489"
+     id="image11"
+     x="0"
+     y="0" />
+  <text
+     xml:space="preserve"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Sans"
+     x="382.17941"
+     y="236.78764"
+     id="text2384"
+     sodipodi:linespacing="125%"
+     transform="matrix(0.9567597,-0.2908796,0.2908796,0.9567597,0,0)"><tspan
+       sodipodi:role="line"
+       id="tspan2386"
+       x="382.17941"
+       y="236.78764">Laser 1</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Sans"
+     x="453.22266"
+     y="299.59564"
+     id="text2388"
+     sodipodi:linespacing="125%"
+     transform="matrix(0.9991118,-4.213786e-2,4.213786e-2,0.9991118,0,0)"><tspan
+       sodipodi:role="line"
+       id="tspan2390"
+       x="453.22266"
+       y="299.59564"
+       style="font-size:24px">Laser 2</tspan></text>
+  <path
+     style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.00000083000000006;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="M 333.25708,350.19171 C 340.16014,353.64967 350.84848,349.06436 350.6991,340.67878 C 349.94115,331.79298 339.84758,328.31696 337.21743,320.30389 C 332.3668,308.16029 334.65234,294.82294 332.93657,282.14463 C 332.1414,271.45749 330.76345,260.48234 332.92383,249.90943 C 335.95879,243.96829 344.45839,243.0753 346.48552,236.38593 C 348.94393,231.01078 350.49434,224.70718 348.4645,218.94079 C 343.32449,214.01553 334.80032,217.62208 331.69473,223.15395 C 325.06036,233.46306 327.49083,246.35785 323.80062,257.59385 C 319.411,277.60563 315.57459,299.14979 322.82729,318.98478 C 325.77908,326.48596 326.1124,334.64571 327.91636,342.41208 C 328.9386,345.4189 330.62235,348.32606 333.25708,350.19171 z"
+     id="path2465" />
+  <path
+     style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.00000083;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="M 341.82277,216.50817 L 341.82277,187.22372"
+     id="path2499" />
+  <text
+     xml:space="preserve"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Sans"
+     x="337.3569"
+     y="383.57596"
+     id="text4051"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       x="337.3569"
+       y="383.57596"
+       id="tspan4055">connected</tspan><tspan
+       sodipodi:role="line"
+       x="337.3569"
+       y="413.57596"
+       id="tspan4059">DCOPS</tspan></text>
+  <path
+     style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.00000083000000006;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;color:#000000"
+     d="M 334.28202,197.32685 L 341.89598,187.0773 L 349.07067,197.10722"
+     id="path4576"
+     sodipodi:nodetypes="ccc" />
+</svg>
